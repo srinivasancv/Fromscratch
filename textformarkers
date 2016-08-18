@@ -1,0 +1,10 @@
+lat: 13.014476,
+        lng: 80.204729,
+        title: 'OTP',
+        details: {
+          database_id: 42,
+          author: 'HP630'
+        },
+        infoWindow: {
+            content: '<p>You Are Searching a Vz Owned Store</p>'
+          }
