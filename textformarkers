@@ -1,4 +1,6 @@
-lat: 13.014476,
+map.addMarker
+({
+        lat: 13.014476,
         lng: 80.204729,
         title: 'OTP',
         details: {
@@ -8,3 +10,4 @@ lat: 13.014476,
         infoWindow: {
             content: '<p>You Are Searching a Vz Owned Store</p>'
           }
+});
